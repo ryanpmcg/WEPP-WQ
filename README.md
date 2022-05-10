@@ -7,7 +7,7 @@ WEPP-WQ is a derivative of WEPP and SWAT models in which daily nonpoint source (
 Version 2022.05.10 is the most recent model version.
 
 ## Source Code Availability
-WEPP-WQ was developed in partnership with USDA-ARS at the National Soil Erosion Research Laboratory using proprietary Water Erosion Prediction Project (WEPP) source code. At this time, WEPP source code has not been made open-source. Despite this limitation, WEPP-WQ source files which are not associated with the original source code are made open-source in keeping with the arrangement with USDA-ARS.
+WEPP-WQ was developed in partnership with USDA-ARS at the National Soil Erosion Research Laboratory using proprietary Water Erosion Prediction Project (WEPP) source code. At this time, WEPP source code has not been made open-source. Despite this limitation, WEPP-WQ source files which are not associated with the original source code are made open-source in maintaining the most collaborative position possible within these project constraints.
 
 ## Executable Availability
 In addition, a Windows executable file is provided for general use of the model.
