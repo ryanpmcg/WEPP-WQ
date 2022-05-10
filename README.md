@@ -28,4 +28,4 @@ To report a potential bug, suggest an improvement, or raise other points to the 
 Do not let this become an issue. Obviously poor conduct will result in a ban.
 
 ## Dependencies
-WEPP-WQ is completely original code and contains no dependencies.
+Aside from WEPP source code upon which WEPP-WQ is built, all code is the original work of Ryan P. McGehee and contains no dependencies.
