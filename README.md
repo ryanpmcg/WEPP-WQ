@@ -7,10 +7,9 @@ The single greatest benefit of this new model development project is the ability
 
 ## Current Version and Contents
 Version 2022.05.10 is the most recent model version.
-
-BUILD - contains executable versions of WEPP-WQ
-DATA - contains all validation data pertaining to WEPP-WQ validations for the purposes of transparency and accountability
-SRC - contains all source code files related to WEPP-WQ not restricted from open-source publication
++ BUILD - contains executable versions of WEPP-WQ
++ DATA - contains all validation data pertaining to WEPP-WQ validations for the purposes of transparency and accountability
++ SRC - contains all source code files related to WEPP-WQ not restricted from open-source publication
 
 ## Source Code Availability
 WEPP-WQ was developed in partnership with USDA-ARS at the National Soil Erosion Research Laboratory using proprietary Water Erosion Prediction Project (WEPP) source code. At this time, WEPP source code has not been made open-source. Despite this limitation, WEPP-WQ source files which are not associated with the original source code are made open-source in maintaining the most collaborative position possible within these project constraints.
