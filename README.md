@@ -31,4 +31,4 @@ To report a potential bug, suggest an improvement, or raise other points to the 
 Do not let this become an issue. Obviously poor conduct will result in a ban.
 
 ## Dependencies
-Aside from WEPP source code upon which WEPP-WQ is built, all code is the original work of Ryan P. McGehee and contains no dependencies.
+Aside from WEPP and SWAT source code upon which WEPP-WQ is built, all code is the original work of Ryan P. McGehee and contains no dependencies. A peer-review article is currently in the review process which details what modifications were made in this project.
