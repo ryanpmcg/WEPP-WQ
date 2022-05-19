@@ -7,8 +7,8 @@ The single greatest benefit of this new model development project is the ability
 
 ## Current Version and Contents
 Version 2022.05.10 is the most recent model version.
-+ BUILD - contains executable versions of WEPP-WQ
-+ DATA - contains all validation data pertaining to WEPP-WQ validations for the purposes of transparency and accountability
++ BUILD - contains all executable versions of WEPP-WQ
++ DATA - contains all validation data pertaining to WEPP-WQ validations
 + SRC - contains all source code files related to WEPP-WQ not restricted from open-source publication
 
 ## Source Code Availability
